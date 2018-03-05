@@ -1,0 +1,268 @@
+
+
+body{
+background-image: url(_bg_light.png);
+
+}
+
+.navbar{
+background:red;
+margin-top: 20px;
+font-family: "fonttitre";
+margin:auto;
+}
+
+
+a{
+color:white;
+font-size: 18px;
+font-family:  "fonttitre";
+}
+.navbar-header img{padding-top: 5%;}
+.nav span{color:white;}
+.nav span:hover{
+    color:black;
+    background-color:white;
+    text-decoration: underline;
+}
+.navbar-brand{
+margin-right: 100px;
+font-size: 30px;
+font-family: "font1";
+}
+
+
+.item{
+max-height: 500px;
+margin-bottom: 10px;
+
+}
+
+
+}
+
+.textm{font-size:12px;}
+ 
+ h2{color:#293133;
+     font-family:  "fonttitre";
+ }
+
+
+}
+ .section2 span{font-size: 20px;}
+.section2 ul{
+    text-align: center;
+    color:grey;
+}
+ .section2 .adjust{margin: auto;color:black;}
+
+ .gh li{
+
+    display: inline-block;
+    margin: 20px 20px 0px 20px;
+    border:1px solid white;
+    padding:20px;
+    
+    }
+.gh a{color:#293133;}
+
+   
+
+    .thumbnail1 img{opacity: 0.5;}
+    .thumbnail2 img{opacity: 0.5;}
+    .thumbnail3 img{opacity: 0.5;}
+
+
+    .reward {
+        position:relative;
+        top:-350px;
+        left:80px;
+        font-size: 30px;
+        width: 190px;
+        color:black;
+        background-color: rgba(255,255,255,0.7);
+    }
+
+    .reward2 {
+        position:relative;
+        top:-350px;
+        left:80px;
+        font-size: 30px;
+        width: 200px;
+        color:orange;
+
+      
+    }
+
+    .gruge{opacity: 0}
+    .orange{color:orange;}
+    
+    .nom{
+        font-size: 50px;
+        position: relative;
+        top:-300px;
+        left:80px;
+        color:white;
+        font-family: "font1";
+        
+}
+
+
+
+
+    
+
+    .nom2{
+        color:white;
+        font-size: 50px;
+        position: relative;
+        top:-300px;
+        left:80px;
+        font-family: "font1";
+        text-decoration: line-through orange;
+    }
+
+    .img-adjust{
+        background: black;
+        width:306px;
+        margin:auto;
+        height: 450px;
+        border:solid 3px #293133;
+        z-index:1;
+        margin-top:20px;
+
+
+    }
+
+    
+
+    
+
+    .thumbnail1:hover .reward{
+        transform: scale(0) rotate(360deg);
+        
+        transition:all 1.5s ease;
+    }
+
+    .thumbnail1:hover img{opacity: 1;transition:all 1.5s ease;}
+    .thumbnail2:hover img{opacity: 1;transition:all 1.5s ease;}
+    .thumbnail3:hover img{opacity: 1;transition:all 1.5s ease;}
+
+
+    .thumbnail2:hover .reward{
+        transform: scale(0) rotate(360deg);
+        
+        transition:all 1.5s ease;
+    }
+    .thumbnail3:hover .reward2{
+        transform: scale(0) rotate(360deg);
+       
+        transition:all 1.5s ease;
+    }
+
+    .contact{
+        width:200px;
+        height:50px;
+        background:white;
+        -webkit-transform:skew(30deg);
+        -moz-transform:skew(30deg);
+        -o-transform:skew(30deg);
+        transform: skew(30deg);
+       
+        color:orange;
+        text-align: center;
+}
+    .contact a{color:orange;}
+    .contactform{
+        margin-top: 20px;
+        width: 40%;
+        margin:auto;
+    }
+
+    .section3{
+        margin-top: 20px;
+        margin-bottom: :20px;
+        background-image: url(_bg_dark.png);
+        color:white;
+    }
+   .section7 h2{color:white;}
+   .section5 h2{color:white;}
+   .section3 h2{color:white;}
+
+
+    .box{
+       
+        margin-top: -20px;
+    }    
+    .section5{background-image: url(_bg_dark.png);}
+    .panel-heading{
+        background-color:orange;
+        color:white;
+    }
+    .center{text-align: center;}
+    .contact2{
+        width:280px;
+        height:auto;
+        background:black;
+        -webkit-transform:skew(30deg);
+        -moz-transform:skew(30deg);
+        -o-transform:skew(30deg);
+        transform: skew(30deg);
+       
+        color:orange;
+        text-align: center;
+        padding: 10px;
+}
+    .contact2 a{color:orange;}
+
+    
+
+.section7{
+    background-image: url(_bg_dark.png);
+    margin-top:30px;
+}
+    
+
+.form-control {
+  margin: 0;
+  padding: 1;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+footer {background-color: orange;}
+
+footer li{list-style: none;}
+
+footer ul{margin-bottom: 50px;}
+
+
+
+@font-face {
+    font-family: "font1";
+    src: url("DancingScript-Regular.ttf");
+}
+
+@font-face {
+    font-family: "fonttitre";
+    src: url("anicb___.ttf");
+}
+@font-face {
+    font-family: "fontp";
+    src: url("partybusiness.ttf");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
